@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ceong
-- 👀 I’m interested in CS, Math
-- 🌱 I’m currently learning Python, Deep Learning
-- 💞️ I’m looking to collaborate on NLP project
+- 🌱 I’m currently learning Python
 - 📫 How to reach me re3mon3@gmailcom
 
 <!---
