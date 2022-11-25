@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Ceong
-- 🌱 I’m currently learning Machine Learning, Deep Learning.
-- 📫 How to reach me re3mon3@gmailcom
+### Junior Data analyst
+📫 How to reach me re3mon3@gmail.com
+
+Interest
+- NLP, Text dection
+- Self-awarness
+- Cold tea, Hot shower, Swimming, Books
 
 <!---
 JeonCeong/JeonCeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
