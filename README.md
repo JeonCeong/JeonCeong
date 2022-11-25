@@ -1,6 +1,6 @@
-### Junior Data analyst
+# Junior Data analyst
 
-Interest
+### Interest
 - NLP, Text dection
 - Self-awarness
 - Cold tea, Hot shower, Swimming, Books
